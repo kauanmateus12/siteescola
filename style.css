@@ -1,3 +1,12 @@
 header{background-color: blue;
-color: greenyellow;}
+color: greenyellow;
+display: flex;
+justify-content: space-around;}
 .cabecalho-imagem{whidth:25%;}
+li{
+    display: block;
+}
+h1 {
+    margin: 0 120px;
+    padding: 250px 0;
+}
