@@ -1,12 +1,19 @@
+*{
+    margin :0;
+    padding :0;
+}
 header{background-color: rgb(25, 0, 255);
-color: greenyellow;
+color: rgb(0, 0, 0);
 display: flex;
-justify-content: space-around; }
+justify-content: space-around;
+padding: 24px 0; }
 .cabecalho-imagem{whidth:25%;}
 li{
-    display: block;
-}
+    display: block;}
 h1 {
     margin: 0 120px;
     padding: 110px;
+}
+.escola {
+    background-image: -moz-linear-gradient(red , black);
 }
