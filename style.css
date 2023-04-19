@@ -8,7 +8,8 @@ color: rgb(0, 0, 0);
 display: flex;
 justify-content: space-around;
 padding: 27px 0; }
-.cabecalho-imagem{whidth:50%;}
+.cabecalho-imagem{
+    width:50%;}
 li{
     display: block;}
 h1 {
@@ -26,8 +27,20 @@ h1 {
 .aluno-um{
     width:15%
 }
+
+
 .estudante-titulo{
     text-align:center;
     padding: 80px 0;
     font-size: 40px;
+}
+
+
+
+.estudante-icone 
+{width: 80px;}
+
+
+.estudante-div {
+    text-align: center;
 }
