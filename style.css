@@ -7,21 +7,21 @@ header{background-color: rgb(255, 0, 0);
 color: rgb(0, 0, 0);
 display: flex;
 justify-content: space-around;
-padding: 27px 0; }
-.cabecalho-imagem{
-    width:50%;}
+padding: -30px 0; }
+.imagem-cabecalho{
+    width: 10%;}
 li{
     display: block;}
 h1 {
-    margin: 0 320px;
-    padding: 0 250px;
+    margin: 0 100px;
+    padding: 50px;
 }
-.escola-imagem{width: 150%;}
+.escola-imagem{width: 180%;}
 .escola {
     display: flex;
     justify-content: center;
     align-content: center;
-    padding: 29px 0;
+    padding: -100px 0;
     background-image: -moz-linear-gradient(red , rgb(0, 0, 0));
 }
 .aluno-um{
@@ -50,9 +50,10 @@ h1 {
     grid-template-columns: 25% 25% 25% 25%;
 }
 footer{
-    background-color: rgb(255, 0, 0);
-    color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 .estudante{
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0); 
+    color: aliceblue;
 }
